@@ -25,6 +25,7 @@ Wait for the folder to load (you'll see it when the parent folder becomes app in
 ![image](https://github.com/user-attachments/assets/78f8de81-93cc-4e90-b81f-8543fda465e8)
 
 In the top toolbar, there will be options to run the project:
+
 ![image](https://github.com/user-attachments/assets/8ba2aa9d-aa44-470b-85a2-e5592c0de92f)
 
 Choose the emulator for the phone you want to use.
